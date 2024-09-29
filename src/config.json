@@ -1,0 +1,7 @@
+{
+    "spam": {
+        "messageLimit": 5,
+        "timeWindow": 2000,  
+        "timeoutDuration": 20000  
+    }
+}

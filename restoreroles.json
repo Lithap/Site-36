@@ -1,0 +1,36 @@
+{
+  "1004526667496161280": {
+    "name": "dezzy0907",
+    "id": "1004526667496161280",
+    "roles": [
+      {
+        "id": "1041845549940359188",
+        "name": "Civilians"
+      },
+      {
+        "id": "1041834557273542776",
+        "name": "@everyone"
+      }
+    ],
+    "timestamp": "2024-09-05T16:53:07.575Z",
+    "wasKicked": true,
+    "wasBanned": false
+  },
+  "1280668026705805365": {
+    "name": "testingbot2313",
+    "id": "1280668026705805365",
+    "roles": [
+      {
+        "id": "1041845549940359188",
+        "name": "Civilians"
+      },
+      {
+        "id": "1041834557273542776",
+        "name": "@everyone"
+      }
+    ],
+    "timestamp": "2024-09-06T01:36:51.043Z",
+    "wasKicked": true,
+    "wasBanned": false
+  }
+}
